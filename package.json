@@ -1,0 +1,11 @@
+{
+  "name": "progetto-s6-l5-bootstrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "sass scss/style.scss:css/style.css -w"
+  },
+  "author": "",
+  "license": "ISC"
+}
