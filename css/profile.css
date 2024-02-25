@@ -1,0 +1,38 @@
+hr {
+  color: #898989;
+}
+.edit {
+  max-width: 690px;
+  margin-inline: auto;
+}
+._opacity {
+  opacity: 0.75;
+}
+.service {
+  color: #898989;
+  text-decoration: none;
+  border: 1px solid #898989;
+  padding: 8px;
+  padding-inline: 20px;
+}
+.service:hover {
+  color: #a1a1a1;
+}
+.save {
+  background-color: white;
+  color: black;
+  padding: 8px;
+  padding-inline: 35px;
+  letter-spacing: 1px;
+}
+.del {
+  padding: 8px;
+  padding-inline: 46px;
+  letter-spacing: 1px;
+}
+.strive {
+  background-color: #666666;
+}
+.ratings {
+  background-color: #333333;
+}

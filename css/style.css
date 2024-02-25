@@ -1,8 +1,46 @@
+.btn-genres {
+  height: 2.4rem;
+  width: 7rem;
+}
+.btn-menu {
+  padding-block: 0.5rem;
+  color: #898989;
+}
+.btn-menu:hover {
+  color: #a1a1a1;
+}
+.icon {
+  color: #898989;
+  cursor: pointer;
+}
+.fb:hover {
+  color: #395498;
+  transition-property: color;
+  transition-duration: 0.4s;
+}
+.ig:hover {
+  color: #ec313ddf;
+  transition-property: color;
+  transition-duration: 0.4s;
+}
+.tw:hover {
+  color: #f7f7f7;
+  transition-property: color;
+  transition-duration: 0.4s;
+}
+.yt:hover {
+  color: #f70000;
+  transition-property: color;
+  transition-duration: 0.4s;
+}
 .service {
   color: #898989;
   text-decoration: none;
   border: 2px solid #898989;
   padding: 10px;
+}
+.service:hover {
+  color: #a1a1a1;
 }
 .copy {
   color: #898989;
